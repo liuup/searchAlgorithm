@@ -1,9 +1,11 @@
 package main
 
-// "search/bfs"
-// "search/dijkstra"
-// "search/greedy"
-// "search/astar"
+import (
+	// "search/bfs"
+	// "search/dijkstra"
+	// "search/greedy"
+	// "search/astar"
+)
 
 var (
 	// 定义一个迷宫，0为通路，1为障碍物
